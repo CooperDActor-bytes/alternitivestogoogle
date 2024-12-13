@@ -1,12 +1,15 @@
 # alt's to google
-no more google!
+no more google! 
+
+
+all of these are based off of *my* opinion.
 
  Type Of Service | Name | Description | Link | Cost |
 | --- | --- | --- | --- | --- |
 | Search | DuckDuckGo | DuckDuckGo is a private search engine | [Link](https://duckduckgo.com) | Free |
-| OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
-| Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited |
-| Data Visualization | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/data-visualization/) | Unlimited |
+| Browser | Brave | Brave is based off of chromimum and uses ad blockers to give you crypto.| [Link](https://brave.com) | Free |
+| Cloud | DropBox | file hosting service operated by the American company Dropbox, Inc | [Link](https://dropbox.com/) | Free (up to 2GB) |
+| Emails | iCloud | iCloud is an apple product | [Link](https://icloud.com/) | Free, But has subscription (min. $AUD2.99) |
 | AI Fundamentals | Databricks  | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Unlimited |
 | OCI | Oracle | Oracle Cloud Infrastructure 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) |Unlimited |
 | OCI | Oracle | Oracle Cloud Data Management 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) |Unlimited |
