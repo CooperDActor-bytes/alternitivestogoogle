@@ -3,7 +3,7 @@ no more google!
 
  Type Of Service | Name | Description | Link | Cost |
 | --- | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
+| Search | DuckDuckGo | DuckDuckGo is a private search engine | [Link](https://duckduckgo.com) | Free |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
 | Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited |
 | Data Visualization | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/data-visualization/) | Unlimited |
