@@ -1,7 +1,7 @@
 # alt's to google
 no more google!
 
- Technology | Provider | Description | Link | Expiration |
+ Type Of Service | Name | Description | Link | Cost |
 | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 |
